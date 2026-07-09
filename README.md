@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrew
 
-### [ Bio ]
+## [ Bio ]
 
 ✅&nbsp; Frontend Developer \
 💡&nbsp; Previously: UX/UI Designer <span style="color: gray">[ 10 yrs ]</span>, Sound Producer <span style="color: gray">[ 5 yrs ]</span>, Partner at a web-dev agency <span style="color: gray">[ 3 yrs ]</span> \
@@ -15,58 +15,49 @@
 
 <br/>
 
-<!-- ### [ Stack ] -->
-<hr/>
-<span style="font-size: 1.5rem; font-weight: 600; display: inline-block; padding-block: 1rem">[ - Stack - ]</span>
-<br/>
-<br/>
-<!-- #### Core -->
+## [ Stack ]
 
-<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Core:&nbsp;&nbsp;</span>[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
+#### Core
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)&nbsp;
 
-<!-- #### Frameworks -->
+#### Frameworks
 
-<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Frameworks:&nbsp;&nbsp;</span>[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)&nbsp;
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)&nbsp;
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)&nbsp;
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)](#)&nbsp;
 
-<!-- #### Libraries -->
+#### Libraries
 
-<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Libraries:&nbsp;&nbsp;</span>[![GSAP](https://img.shields.io/badge/GSAP-00A10D?logo=GSAP&logoColor=white)](#)&nbsp;
+[![GSAP](https://img.shields.io/badge/GSAP-00A10D?logo=GSAP&logoColor=white)](#)&nbsp;
 [![Motion.dev](https://img.shields.io/badge/Motion.dev-FFE600)](#)&nbsp;
 [![Lenis](https://img.shields.io/badge/-Lenis_Scroll-DD0000?style=flat)](#)&nbsp;
 [![Lodash](https://img.shields.io/badge/-Lodash-9BA5CE?style=flat&logo=Lodash&logoColor=ffffff)](#)&nbsp;
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)&nbsp;
 
-<!-- #### Data -->
+#### Data
 
-<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Data:&nbsp;&nbsp;</span>[![Sanity CMS](https://img.shields.io/badge/-Sanity_CMS-05122A?style=flat&logo=Sanity&logoColor=A8B9CC)](#)&nbsp;
+[![Sanity CMS](https://img.shields.io/badge/-Sanity_CMS-05122A?style=flat&logo=Sanity&logoColor=A8B9CC)](#)&nbsp;
 [![GROQ](https://img.shields.io/badge/-GROQ-05122A?style=flat)](#)&nbsp;
 [![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat)](#)&nbsp;
 [![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat)](#)&nbsp;
 
-<!-- #### Misc -->
+#### Misc
 
-<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Misc:&nbsp;&nbsp;</span>[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)&nbsp;
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)&nbsp;
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)&nbsp;
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)&nbsp;
 
 <br/>
 
-<!-- ### [ Projects & Explorations ] -->
-<hr />
-<span style="font-size: 1.5rem; font-weight: 600; display: inline-block; padding-block: 1rem">[ - Featured Projects & Explorations - ]</span>
-<br/>
-<br/>
+## [ Projects & Explorations ]
 
-<!-- 2026 -->
-
-<span style="font-size: 1.25rem; font-weight: 600;">2026</span>
+#### 2026
 
 <a href="https://sui-shtyka.vercel.app/" style="font-weight: 600">→ Sui</a>, a reverse-engineered homepage of an Awwwards-winning website (originally Sui.io)
 
@@ -78,9 +69,7 @@
 
 <br/>
 
-<!-- 2025 -->
-
-<span style="font-size: 1.25rem; font-weight: 600;">2025</span>
+#### 2025
 
 <a href="https://design-3-locomotive.vercel.app/" style="font-weight: 600">→ Locomotive</a>, a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca)
 
