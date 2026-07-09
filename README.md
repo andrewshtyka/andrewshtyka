@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Andrew
 
-## [ Bio ]
-
 ✅&nbsp; Frontend Developer \
 💡&nbsp; Previously: UX/UI Designer <span style="color: gray">[ 10 yrs ]</span>, Sound Producer <span style="color: gray">[ 5 yrs ]</span>, Partner at a web-dev agency <span style="color: gray">[ 3 yrs ]</span> \
 🌠&nbsp; Focus on visual design, UX and animations \
