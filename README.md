@@ -7,7 +7,7 @@
 😈&nbsp; Obsessed with development, shaders, 3d \
 🏎&nbsp; If I'm not coding, I'm probably racing in GTP or GT3 class in <a href="https://www.iracing.com/">iRacing</a>
 
-<a href="https://cdn.sanity.io/files/93zo7q99/production/f20c3fa10250a749d5138a7d62202c5cea463150.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_See_CV_/_Resume-000000?logo=PDF"/></a>&nbsp;
+<a href="https://cdn.sanity.io/files/93zo7q99/production/f20c3fa10250a749d5138a7d62202c5cea463150.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_See_CV_/_Resume-ff0000?logo=PDF"/></a>&nbsp;
 <!-- <a href="mailto:andrii.shtyka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/andrewshtyka"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>&nbsp;
 <a href="https://t.me/shtyka1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>&nbsp; -->
@@ -18,10 +18,12 @@
 
 #### Core
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)&nbsp;
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)&nbsp;
+[![SCSS](https://img.shields.io/badge/SCSS-ff6edb)](#)&nbsp;
+[![PostCSS](https://img.shields.io/badge/PostCSS-1c46ff)](#)&nbsp;
 
 #### Frameworks
 
