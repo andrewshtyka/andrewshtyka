@@ -71,9 +71,9 @@
 
 <a href="https://design-3-locomotive.vercel.app/" style="font-weight: 600">→ Locomotive</a>, a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca)
 
-<a href="https://threejs-house-shtyka.netlify.app/" style="font-weight: 600">→ Haunted house</a>, a 3d project made with Three.js (as a home task of the Three.js Journey course)
+<a href="https://threejs-house-shtyka.netlify.app/" style="font-weight: 600">→ Haunted house</a>, a 3d project made with Three.js (home task, Three.js Journey course)
 
-<a href="https://password-generator-app-shtyka.netlify.app/" style="font-weight: 600">→ Password generator</a> and <a href="https://time-tracking-dashboard-shtyka.netlify.app/" style="font-weight: 600">→ Dashboard</a>: my early explorations of web-animations (some of home tasks of the Frontend Mentor course).
+<a href="https://password-generator-app-shtyka.netlify.app/" style="font-weight: 600">→ Password generator</a> and <a href="https://time-tracking-dashboard-shtyka.netlify.app/" style="font-weight: 600">→ Dashboard</a>: my early explorations of web-animations (home tasks, Frontend Mentor course).
 
 
 
