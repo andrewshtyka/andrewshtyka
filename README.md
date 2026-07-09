@@ -68,6 +68,12 @@
 
 <a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, **[ client ]** my portfolio website
 
+<a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" style="font-weight: 600">→ Squares Poster</a>, **[ pet-project ]** a Canvas2D experiment
+
+<a href="https://codesandbox.io/p/sandbox/g3qnc5" style="font-weight: 600">→ Lines Poster</a>, **[ pet-project ]** a Canvas2D experiment
+
+<a href="https://codesandbox.io/p/sandbox/gvh5pt" style="font-weight: 600">→ Eyes Poster</a>, **[ pet-project ]** a Canvas2D experiment
+
 <br/>
 
 #### 2025
