@@ -57,23 +57,23 @@
 
 #### 2026
 
-<a href="https://sui-shtyka.vercel.app/" style="font-weight: 600">→ Sui</a>, a reverse-engineered homepage of an Awwwards-winning website (originally Sui.io)
+<a href="https://sui-shtyka.vercel.app/" style="font-weight: 600">→ Sui</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Sui.io)
 
-<a href="https://forge-shtyka.vercel.app/" style="font-weight: 600">→ Forge</a>, a landing-page for a CNC manufacturer
+<a href="https://forge-shtyka.vercel.app/" style="font-weight: 600">→ Forge</a>, **[ concept ]** a landing-page for a CNC manufacturer
 
-<a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, my portfolio website
+<a href="https://zlagoda.design/" style="font-weight: 600">→ Zlagoda</a>, **[ client ]** a portfolio website for an interior design studio
 
-<a href="https://zlagoda.design/" style="font-weight: 600">→ Zlagoda</a>, a portfolio website for an interior design studio
+<a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, **[ client ]** my portfolio website
 
 <br/>
 
 #### 2025
 
-<a href="https://design-3-locomotive.vercel.app/" style="font-weight: 600">→ Locomotive</a>, a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca)
+<a href="https://design-3-locomotive.vercel.app/" style="font-weight: 600">→ Locomotive</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca)
 
-<a href="https://threejs-house-shtyka.netlify.app/" style="font-weight: 600">→ Haunted house</a>, a 3d project made with Three.js (home task, Three.js Journey course)
+<a href="https://threejs-house-shtyka.netlify.app/" style="font-weight: 600">→ Haunted house</a>, **[ pet-project ]** a 3d project made with Three.js (home task, <a href="https://threejs-journey.com/">Three.js Journey</a> course)
 
-<a href="https://password-generator-app-shtyka.netlify.app/" style="font-weight: 600">→ Password generator</a> and <a href="https://time-tracking-dashboard-shtyka.netlify.app/" style="font-weight: 600">→ Dashboard</a>: my early explorations of web-animations (home tasks, Frontend Mentor course).
+<a href="https://password-generator-app-shtyka.netlify.app/" style="font-weight: 600">→ Password generator</a> and <a href="https://time-tracking-dashboard-shtyka.netlify.app/" style="font-weight: 600">→ Dashboard</a>: **[ pet-project ]** my early explorations of web-animations (home tasks, a <a href="https://www.frontendmentor.io/">Frontend Mentor</a> course).
 
 
 
