@@ -1,14 +1,6 @@
-<!-- # 👋 Hi, I'm Andrew -->
+# 👋 Hi, I'm Andrew
 
-<span style="font-size: 2.5rem; font-weight: 600; display: inline-block;">👋 Hi, I'm Andrew</span>
-<br/>
-
-<!-- ### [ Bio ] -->
-
-<hr/>
-
-<span style="font-size: 1.5rem; font-weight: 600; display: inline-block; padding-block: 1rem">[ - Bio - ]</span>
-<br/>
+### [ Bio ]
 
 ✅&nbsp; Frontend Developer \
 💡&nbsp; Previously: UX/UI Designer <span style="color: gray">[ 10 yrs ]</span>, Sound Producer <span style="color: gray">[ 5 yrs ]</span>, Partner at a web-dev agency <span style="color: gray">[ 3 yrs ]</span> \
