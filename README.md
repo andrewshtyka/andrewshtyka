@@ -1,16 +1,97 @@
-## Hi there 👋
+<!-- # 👋 Hi, I'm Andrew -->
 
-<!--
-**andrewshtyka/andrewshtyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="font-size: 2.5rem; font-weight: 600; display: inline-block;">👋 Hi, I'm Andrew</span>
+<br/>
 
-Here are some ideas to get you started:
+<!-- ### [ Bio ] -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<span style="font-size: 1.5rem; font-weight: 600; display: inline-block; padding-block: 1rem">[ - Bio - ]</span>
+<br/>
+
+✅&nbsp; Frontend Developer \
+💡&nbsp; Previously: UX/UI Designer <span style="color: gray">[ 10 yrs ]</span>, Sound Producer <span style="color: gray">[ 5 yrs ]</span>, Partner at a web-dev agency <span style="color: gray">[ 3 yrs ]</span> \
+🌠&nbsp; Focus on visual design, UX and animations \
+🎓&nbsp; Reverse-engineer Awwwards winning websites in my spare time \
+😈&nbsp; Obsessed with development, shaders, 3d
+
+<a href="https://cdn.sanity.io/files/93zo7q99/production/f20c3fa10250a749d5138a7d62202c5cea463150.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_Download_CV_/_Resume-000000?logo=PDF"/></a>&nbsp;
+<a href="mailto:andrii.shtyka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/andrewshtyka"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>&nbsp;
+<a href="https://t.me/shtyka1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>&nbsp;
+
+<br/>
+
+<!-- ### [ Stack ] -->
+<hr/>
+<span style="font-size: 1.5rem; font-weight: 600; display: inline-block; padding-block: 1rem">[ - Stack - ]</span>
+<br/>
+<br/>
+<!-- #### Core -->
+
+<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Core:&nbsp;&nbsp;</span>[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)&nbsp;
+
+<!-- #### Frameworks -->
+
+<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Frameworks:&nbsp;&nbsp;</span>[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)&nbsp;
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)&nbsp;
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)](#)&nbsp;
+
+<!-- #### Libraries -->
+
+<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Libraries:&nbsp;&nbsp;</span>[![GSAP](https://img.shields.io/badge/GSAP-00A10D?logo=GSAP&logoColor=white)](#)&nbsp;
+[![Motion.dev](https://img.shields.io/badge/Motion.dev-FFE600)](#)&nbsp;
+[![Lenis](https://img.shields.io/badge/-Lenis_Scroll-DD0000?style=flat)](#)&nbsp;
+[![Lodash](https://img.shields.io/badge/-Lodash-9BA5CE?style=flat&logo=Lodash&logoColor=ffffff)](#)&nbsp;
+[![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)&nbsp;
+
+<!-- #### Data -->
+
+<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Data:&nbsp;&nbsp;</span>[![Sanity CMS](https://img.shields.io/badge/-Sanity_CMS-05122A?style=flat&logo=Sanity&logoColor=A8B9CC)](#)&nbsp;
+[![GROQ](https://img.shields.io/badge/-GROQ-05122A?style=flat)](#)&nbsp;
+[![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat)](#)&nbsp;
+[![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat)](#)&nbsp;
+
+<!-- #### Misc -->
+
+<span style="vertical-align: top; font-weight: bold; width: 7.5rem; display: inline-block">Misc:&nbsp;&nbsp;</span>[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)&nbsp;
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)&nbsp;
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)&nbsp;
+
+<br/>
+
+<!-- ### [ Projects & Explorations ] -->
+<hr />
+<span style="font-size: 1.5rem; font-weight: 600; display: inline-block; padding-block: 1rem">[ - Featured Projects & Explorations - ]</span>
+<br/>
+<br/>
+
+<!-- 2026 -->
+
+<span style="font-size: 1.25rem; font-weight: 600;">2026</span>
+
+<a href="https://sui-shtyka.vercel.app/" style="font-weight: 600">→ Sui</a>, a reverse-engineered homepage of an Awwwards-winning website (originally Sui.io)
+
+<a href="https://forge-shtyka.vercel.app/" style="font-weight: 600">→ Forge</a>, a landing-page for a CNC manufacturer
+
+<a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, my portfolio website
+
+<a href="https://zlagoda.design/" style="font-weight: 600">→ Zlagoda</a>, a portfolio website for an interior design studio
+
+<br/>
+
+<!-- 2025 -->
+
+<span style="font-size: 1.25rem; font-weight: 600;">2025</span>
+
+<a href="https://design-3-locomotive.vercel.app/" style="font-weight: 600">→ Locomotive</a>, a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca)
+
+<a href="https://threejs-house-shtyka.netlify.app/" style="font-weight: 600">→ Haunted house</a>, a 3d project made with Three.js (as a home task of the Three.js Journey course)
+
+<a href="https://password-generator-app-shtyka.netlify.app/" style="font-weight: 600">→ Password generator</a>, my early exploration of web-animations (as a home task of the Frontend Mentor course).
