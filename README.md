@@ -3,7 +3,7 @@
 ✅&nbsp; Frontend Developer \
 💡&nbsp; Previously: UX/UI Designer <span style="color: gray">[ 10 yrs ]</span>, Sound Producer <span style="color: gray">[ 5 yrs ]</span>, Partner at a web-dev agency <span style="color: gray">[ 3 yrs ]</span> \
 🌠&nbsp; Focus on visual design, UX and animations \
-🎓&nbsp; Reverse-engineer Awwwards winning websites in my spare time \
+🎓&nbsp; Reverse-engineer Awwwards-winning websites in my spare time \
 😈&nbsp; Obsessed with development, shaders, 3d \
 🏎&nbsp; If I'm not coding, I'm probably racing in GTP or GT3 class in <a href="https://www.iracing.com/">iRacing</a>
 
