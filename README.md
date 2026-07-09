@@ -6,10 +6,10 @@
 🎓&nbsp; Reverse-engineer Awwwards winning websites in my spare time \
 😈&nbsp; Obsessed with development, shaders, 3d
 
-<a href="https://cdn.sanity.io/files/93zo7q99/production/f20c3fa10250a749d5138a7d62202c5cea463150.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_Download_CV_/_Resume-000000?logo=PDF"/></a>&nbsp;
-<a href="mailto:andrii.shtyka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://cdn.sanity.io/files/93zo7q99/production/f20c3fa10250a749d5138a7d62202c5cea463150.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_See_CV_/_Resume-000000?logo=PDF"/></a>&nbsp;
+<!-- <a href="mailto:andrii.shtyka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/andrewshtyka"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>&nbsp;
-<a href="https://t.me/shtyka1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>&nbsp;
+<a href="https://t.me/shtyka1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>&nbsp; -->
 
 <br/>
 
