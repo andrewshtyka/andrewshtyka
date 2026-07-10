@@ -58,7 +58,9 @@
 
 ## [ Projects & Explorations ]
 
-#### 2026
+### 2026
+
+**Featured:**
 
 <a href="https://sui-shtyka.vercel.app/" style="font-weight: 600">→ Sui</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Sui.io)
 
@@ -68,6 +70,10 @@
 
 <a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, **[ client ]** my portfolio website
 
+<br />
+
+**Rest:**
+
 <a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" style="font-weight: 600">→ Squares Poster</a>, **[ pet-project ]** a Canvas2D experiment
 
 <a href="https://codesandbox.io/p/sandbox/g3qnc5" style="font-weight: 600">→ Lines Poster</a>, **[ pet-project ]** a Canvas2D experiment
@@ -76,7 +82,7 @@
 
 <br/>
 
-#### 2025
+### 2025
 
 <a href="https://design-3-locomotive.vercel.app/" style="font-weight: 600">→ Locomotive</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca)
 
