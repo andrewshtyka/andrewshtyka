@@ -16,7 +16,7 @@
 
 ## [ Stack ]
 
-#### Core
+#### Core:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)&nbsp;
@@ -25,14 +25,14 @@
 [![SCSS](https://img.shields.io/badge/SCSS-ff6edb)](#)&nbsp;
 [![PostCSS](https://img.shields.io/badge/PostCSS-1c46ff)](#)&nbsp;
 
-#### Frameworks
+#### Frameworks:
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)&nbsp;
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)&nbsp;
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)](#)&nbsp;
 
-#### Libraries
+#### Libraries:
 
 [![GSAP](https://img.shields.io/badge/GSAP-00A10D?logo=GSAP&logoColor=white)](#)&nbsp;
 [![Motion.dev](https://img.shields.io/badge/Motion.dev-FFE600)](#)&nbsp;
@@ -40,14 +40,14 @@
 [![Lodash](https://img.shields.io/badge/-Lodash-9BA5CE?style=flat&logo=Lodash&logoColor=ffffff)](#)&nbsp;
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)&nbsp;
 
-#### Data
+#### Data:
 
 [![Sanity CMS](https://img.shields.io/badge/-Sanity_CMS-05122A?style=flat&logo=Sanity&logoColor=A8B9CC)](#)&nbsp;
 [![GROQ](https://img.shields.io/badge/-GROQ-05122A?style=flat)](#)&nbsp;
 [![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat)](#)&nbsp;
 [![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat)](#)&nbsp;
 
-#### Misc
+#### Misc:
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)&nbsp;
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)&nbsp;
