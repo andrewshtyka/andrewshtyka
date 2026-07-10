@@ -16,43 +16,50 @@
 
 ## [ Stack ]
 
-#### Core:
+**Core:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, SCSS, PostCSS, JS, TS \
+**Frameworks:**&nbsp;&nbsp;&nbsp;React, Next.js, Svelte, SvelteKit \
+**Libs:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GSAP, Motion (Framer Motion), Lenis Scroll, Lodash, Three.js \
+**Data:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sanity CMS, GROQ, REST API, WebSocket \
+**Misc:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vite, Vercel, Netlify, Git
 
+
+<!--
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)&nbsp;
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)&nbsp;
 [![SCSS](https://img.shields.io/badge/SCSS-ff6edb)](#)&nbsp;
 [![PostCSS](https://img.shields.io/badge/PostCSS-1c46ff)](#)&nbsp;
+-->
 
-#### Frameworks:
-
+<!--
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)&nbsp;
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)&nbsp;
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)](#)&nbsp;
+-->
 
-#### Libraries:
-
+<!--
 [![GSAP](https://img.shields.io/badge/GSAP-00A10D?logo=GSAP&logoColor=white)](#)&nbsp;
 [![Motion.dev](https://img.shields.io/badge/Motion.dev-FFE600)](#)&nbsp;
 [![Lenis](https://img.shields.io/badge/-Lenis_Scroll-DD0000?style=flat)](#)&nbsp;
 [![Lodash](https://img.shields.io/badge/-Lodash-9BA5CE?style=flat&logo=Lodash&logoColor=ffffff)](#)&nbsp;
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#)&nbsp;
+-->
 
-#### Data:
-
+<!--
 [![Sanity CMS](https://img.shields.io/badge/-Sanity_CMS-05122A?style=flat&logo=Sanity&logoColor=A8B9CC)](#)&nbsp;
 [![GROQ](https://img.shields.io/badge/-GROQ-05122A?style=flat)](#)&nbsp;
 [![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat)](#)&nbsp;
 [![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat)](#)&nbsp;
+-->
 
-#### Misc:
-
+<!--
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)&nbsp;
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)&nbsp;
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)&nbsp;
+-->
 
 <br/>
 
