@@ -74,6 +74,8 @@
 
 **Rest:**
 
+<a href="https://pt-1-shtyka.vercel.app/" style="font-weight: 600">→ Page transition #1</a>, **[ pet-project ]** two pages are visible at the same time (utilizes View Transitions API)
+
 <a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" style="font-weight: 600">→ Squares Poster</a>, **[ pet-project ]** a Canvas2D experiment
 
 <a href="https://codesandbox.io/p/sandbox/g3qnc5" style="font-weight: 600">→ Lines Poster</a>, **[ pet-project ]** a Canvas2D experiment
