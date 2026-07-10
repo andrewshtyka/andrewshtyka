@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrew
 
-✅&nbsp; Frontend Developer \
+✅&nbsp; Currently: Frontend Developer \
 💡&nbsp; Previously: UX/UI Designer <span style="color: gray">[ 10 yrs ]</span>, Sound Producer <span style="color: gray">[ 5 yrs ]</span>, Partner at a web-dev agency <span style="color: gray">[ 3 yrs ]</span> \
 🎓&nbsp; Reverse-engineer Awwwards-winning websites in my spare time \
 😈&nbsp; Obsessed with development, shaders, 3d \
