@@ -70,13 +70,14 @@
 
 **Featured:**
 
+<a href="https://zlagoda.design/" style="font-weight: 600">→ Zlagoda</a>, **[ client ]** a portfolio website for an interior design studio
+
+<a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, **[ client ]** my portfolio website
+
 <a href="https://sui-shtyka.vercel.app/" style="font-weight: 600">→ Sui</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Sui.io)
 
 <a href="https://forge-shtyka.vercel.app/" style="font-weight: 600">→ Forge</a>, **[ concept ]** a landing-page for a CNC manufacturer
 
-<a href="https://zlagoda.design/" style="font-weight: 600">→ Zlagoda</a>, **[ client ]** a portfolio website for an interior design studio
-
-<a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, **[ client ]** my portfolio website
 
 <br />
 
