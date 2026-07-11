@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Andrew
 
-✅&nbsp; Frontend Developer \
-💡&nbsp; Previously: UX/UI Designer <span style="color: gray">[ 10 yrs ]</span>, Sound Producer <span style="color: gray">[ 5 yrs ]</span>, Partner at a web-dev agency <span style="color: gray">[ 3 yrs ]</span> \
-🎓&nbsp; Reverse-engineer Awwwards-winning websites in my spare time \
-😈&nbsp; Obsessed with development, shaders, 3d \
-🏎&nbsp; If I'm not coding, I'm probably racing in GTP or GT3 class in <a href="https://www.iracing.com/">iRacing</a>
+✅&nbsp; **Frontend Developer** \
+💡&nbsp; **Previously:** UX/UI Designer `[ 10 yrs ]`, Sound Producer `[ 5 yrs ]`, Partner at a web-dev agency `[ 3 yrs ]` \
+🎓&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
+😈&nbsp; **Obsessed** with development, shaders, 3d \
+🏎&nbsp; **Simracer** in GTP and GT3 class in <a href="https://www.iracing.com/">iRacing</a>
 
 <!--🌠&nbsp; Focus on visual design, UX and animations \ -->
 
@@ -68,7 +68,7 @@
 
 ### 2026
 
-**Featured:**
+`FEATURED:`
 
 <a href="https://zlagoda.design/" style="font-weight: 600">→ Zlagoda</a>, **[ client ]** a portfolio website for an interior design studio \
 <a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, **[ client ]** my portfolio website \
@@ -77,7 +77,7 @@
 
 <br />
 
-**Rest:**
+`REST:`
 
 <a href="https://pt-1-shtyka.vercel.app/" style="font-weight: 600">→ Page transition #1</a>, **[ pet-project ]** two pages are visible at the same time (utilizes View Transitions API) \
 <a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" style="font-weight: 600">→ Squares Poster</a>, **[ pet-project ]** a Canvas2D experiment \
