@@ -5,7 +5,7 @@
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
 🎓&nbsp; **Currently learning WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by Bruno Simon) \
 😈&nbsp; **Obsessed** with development, shaders, 3d \
-🏎&nbsp; **Simracer** in **GTP** `Ferrari 499P` and **GT3** `Ferrari 296 GT3` in <a href="https://www.iracing.com/" target="_blank">iRacing</a>. I love endurance races! <a href="https://iracingdata.com/user/careerstats/1202812" target="_blank">See my current stats</a>.
+🏎&nbsp; **Simracer** in **GTP** `Ferrari 499P` and **GT3** `Ferrari 296 GT3` in <a href="https://www.iracing.com/" target="_blank">iRacing</a>. I love endurance races. <a href="https://iracingdata.com/user/careerstats/1202812" target="_blank">See my current stats</a>.
 
 <a href="https://cdn.sanity.io/files/93zo7q99/production/f20c3fa10250a749d5138a7d62202c5cea463150.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_See_CV_/_Resume-0051ff?logo=PDF"/></a>&nbsp;
 
