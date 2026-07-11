@@ -5,7 +5,7 @@
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
 🎓&nbsp; **Currently learning WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by Bruno Simon) \
 😈&nbsp; **Obsessed** with development, shaders, 3d \
-🏎&nbsp; **Simracer** in `GTP` (Ferrari 499P) and `GT3` (Ferrari 296 GT3) in <a href="https://www.iracing.com/" target="_blank">iRacing</a>
+🏎&nbsp; **Simracer** in **GTP** `Ferrari 499P` and **GT3** `Ferrari 296 GT3` in <a href="https://www.iracing.com/" target="_blank">iRacing</a>. I love endurance races! <a href="https://iracingdata.com/user/careerstats/1202812" target="_blank">See my current stats</a>.
 
 <!--🌠&nbsp; Focus on visual design, UX and animations \ -->
 
