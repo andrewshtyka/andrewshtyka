@@ -2,9 +2,10 @@
 
 ✅&nbsp; **Frontend Developer** \
 💡&nbsp; **Previously:** UX/UI Designer `[ 10 yrs ]`, Sound Producer `[ 5 yrs ]`, Partner at a web-dev agency `[ 3 yrs ]` \
-🎓&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
+🌱&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
+🎓&nbsp; **Currently learning WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by <a href="https://github.com/brunosimon" target="_blank">Bruno Simon</a>) \
 😈&nbsp; **Obsessed** with development, shaders, 3d \
-🏎&nbsp; **Simracer** in GTP and GT3 class in <a href="https://www.iracing.com/">iRacing</a>
+🏎&nbsp; **Simracer** in `GTP` (Ferrari 499P) and `GT3` (Ferrari 296 GT3) classes in <a href="https://www.iracing.com/" target="_blank">iRacing</a>
 
 <!--🌠&nbsp; Focus on visual design, UX and animations \ -->
 
@@ -70,27 +71,27 @@
 
 `FEATURED:`
 
-<a href="https://zlagoda.design/" style="font-weight: 600">→ Zlagoda</a>, **[ client ]** a portfolio website for an interior design studio \
-<a href="https://andrewshtyka.pp.ua/" style="font-weight: 600">→ Shtyka</a>, **[ client ]** my portfolio website \
-<a href="https://sui-shtyka.vercel.app/" style="font-weight: 600">→ Sui</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Sui.io) \
-<a href="https://forge-shtyka.vercel.app/" style="font-weight: 600">→ Forge</a>, **[ concept ]** a landing-page for a CNC manufacturer
+<a href="https://zlagoda.design/" target="_blank">→ Zlagoda</a>, **[ client ]** a portfolio website for an interior design studio \
+<a href="https://andrewshtyka.pp.ua/" target="_blank">→ Shtyka</a>, **[ client ]** my portfolio website \
+<a href="https://sui-shtyka.vercel.app/" target="_blank">→ Sui</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Sui.io) \
+<a href="https://forge-shtyka.vercel.app/" target="_blank">→ Forge</a>, **[ concept ]** a landing-page for a CNC manufacturer
 
 <br />
 
 `REST:`
 
-<a href="https://pt-1-shtyka.vercel.app/" style="font-weight: 600">→ Page transition #1</a>, **[ pet-project ]** two pages are visible at the same time (utilizes View Transitions API) \
-<a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" style="font-weight: 600">→ Squares Poster</a>, **[ pet-project ]** a Canvas2D experiment \
-<a href="https://codesandbox.io/p/sandbox/g3qnc5" style="font-weight: 600">→ Lines Poster</a>, **[ pet-project ]** a Canvas2D experiment \
-<a href="https://codesandbox.io/p/sandbox/gvh5pt" style="font-weight: 600">→ Eyes Poster</a>, **[ pet-project ]** a Canvas2D experiment
+<a href="https://pt-1-shtyka.vercel.app/" target="_blank">→ Page transition #1</a>, **[ pet-project ]** two pages are visible at the same time (utilizes View Transitions API) \
+<a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" target="_blank">→ Squares Poster</a>, **[ pet-project ]** a Canvas2D experiment \
+<a href="https://codesandbox.io/p/sandbox/g3qnc5" target="_blank">→ Lines Poster</a>, **[ pet-project ]** a Canvas2D experiment \
+<a href="https://codesandbox.io/p/sandbox/gvh5pt" target="_blank">→ Eyes Poster</a>, **[ pet-project ]** a Canvas2D experiment
 
 <br/>
 
 ### 2025
 
-<a href="https://design-3-locomotive.vercel.app/" style="font-weight: 600">→ Locomotive</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca) \
-<a href="https://threejs-house-shtyka.netlify.app/" style="font-weight: 600">→ Haunted house</a>, **[ pet-project ]** a 3d project made with Three.js (home task, <a href="https://threejs-journey.com/">Three.js Journey</a> course) \
-<a href="https://password-generator-app-shtyka.netlify.app/" style="font-weight: 600">→ Password generator</a> and <a href="https://time-tracking-dashboard-shtyka.netlify.app/" style="font-weight: 600">→ Dashboard</a>: **[ pet-project ]** my early explorations of web-animations (home tasks, a <a href="https://www.frontendmentor.io/">Frontend Mentor</a> course).
+<a href="https://design-3-locomotive.vercel.app/" target="_blank">→ Locomotive</a>, **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca) \
+<a href="https://threejs-house-shtyka.netlify.app/" target="_blank">→ Haunted house</a>, **[ pet-project ]** a 3d project made with Three.js (home task, <a href="https://threejs-journey.com/" target="_blank">Three.js Journey</a> course) \
+<a href="https://password-generator-app-shtyka.netlify.app/" target="_blank">→ Password generator</a> and <a href="https://time-tracking-dashboard-shtyka.netlify.app/" target="_blank">→ Dashboard</a>: **[ pet-project ]** my early explorations of web-animations (home tasks, a <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a> course).
 
 
 
