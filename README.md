@@ -3,7 +3,7 @@
 ✅&nbsp; **Frontend Developer** \
 💡&nbsp; **Previously:** UX/UI Designer `[ 10 yrs ]`, Sound Producer `[ 5 yrs ]`, Partner at a web-dev agency `[ 3 yrs ]` \
 🌱&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
-🎓&nbsp; **Currently learning WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by <a href="https://github.com/brunosimon" target="_blank">Bruno Simon</a>) \
+🎓&nbsp; **Currently learning WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by Bruno Simon) \
 😈&nbsp; **Obsessed** with development, shaders, 3d \
 🏎&nbsp; **Simracer** in `GTP` (Ferrari 499P) and `GT3` (Ferrari 296 GT3) classes in <a href="https://www.iracing.com/" target="_blank">iRacing</a>
 
