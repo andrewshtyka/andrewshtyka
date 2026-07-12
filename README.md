@@ -36,7 +36,7 @@
 
 `REST:`
 
-→ <a href="https://pt-1-shtyka.vercel.app/" target="_blank">Page transition #1</a>: **[ demo ]** two pages are visible at the same time (utilizes View Transitions API) \
+→ <a href="https://pt-1-shtyka.vercel.app/" target="_blank">Page transition #1</a>: **[ demo ]** two pages are visible at the same time (View Transition API) \
 → <a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" target="_blank">Squares Poster</a>: **[ pet-project ]** a Canvas2D experiment \
 → <a href="https://codesandbox.io/p/sandbox/g3qnc5" target="_blank">Lines Poster</a>: **[ pet-project ]** a Canvas2D experiment \
 → <a href="https://codesandbox.io/p/sandbox/gvh5pt" target="_blank">Eyes Poster</a>: **[ pet-project ]** a Canvas2D experiment
