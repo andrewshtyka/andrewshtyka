@@ -36,6 +36,7 @@
 
 `REST:`
 
+→ <a href="https://pt-3-shtyka.vercel.app/" target="_blank">Page transition #3</a>: **[ demo ]** one page goes (almost) above another (Next Transition Router) \
 → <a href="https://pt-2-shtyka.vercel.app/" target="_blank">Page transition #2</a>: **[ demo ]** grid of animated staggered blocks (Next Transition Router) \
 → <a href="https://pt-1-shtyka.vercel.app/" target="_blank">Page transition #1</a>: **[ demo ]** two pages are visible at the same time (View Transition API) \
 → <a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" target="_blank">Squares Poster</a>: **[ pet-project ]** a Canvas2D experiment \
