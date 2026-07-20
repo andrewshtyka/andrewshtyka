@@ -48,6 +48,6 @@
 
 → <a href="https://design-3-locomotive.vercel.app/" target="_blank">Locomotive</a>: **[ remake ]** a reverse-engineered homepage of an Awwwards-winning website (originally Locomotive.ca) \
 → <a href="https://threejs-house-shtyka.netlify.app/" target="_blank">Haunted house</a>: **[ pet-project ]** a 3d project made with Three.js (home task, <a href="https://threejs-journey.com/" target="_blank">Three.js Journey</a> course) \
-→ <a href="https://password-generator-app-shtyka.netlify.app/" target="_blank">Password generator</a> and <a href="https://time-tracking-dashboard-shtyka.netlify.app/" target="_blank">Dashboard</a>: **[ pet-project ]** my early explorations of web-animations (home tasks at the <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a> course).
+→ <a href="https://password-generator-app-shtyka.netlify.app/" target="_blank">Password generator</a> and <a href="https://time-tracking-dashboard-shtyka.netlify.app/" target="_blank">Dashboard</a>: **[ pet-project ]** my early exploration of web-animations (home tasks at the <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a> course).
 
 <br />
