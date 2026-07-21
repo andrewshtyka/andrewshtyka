@@ -15,7 +15,7 @@
 
 **Core:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS, SCSS, PostCSS, JS, TS \
 **Frameworks:**&nbsp;&nbsp;&nbsp;React, Next.js, Svelte, SvelteKit, Astro \
-**Libs:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GSAP, Motion (Framer Motion), Lenis Scroll, Lodash, Three.js \
+**Libs:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GSAP, Motion (Framer Motion), Lenis Scroll, Lodash, Radix Primitives, Three.js \
 **Data:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sanity CMS, GROQ, REST API, WebSocket, Zustand \
 **Misc:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vite, Vercel, Netlify, Git
 
