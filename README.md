@@ -21,6 +21,11 @@
 
 <br/>
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=andrewshtyka&hide_title=true&langs_count=10&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
+
+
+<br/>
+
 ## [ Projects & Explorations ]
 
 ### 2026
