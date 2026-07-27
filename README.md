@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Andrew
 
 ✅&nbsp; **Frontend Developer** \
-💡&nbsp; **Previously:** UX/UI Designer `[ 10 yrs ]`, Sound Producer `[ 5 yrs ]`, Partner at a web-dev agency `[ 3 yrs ]` \
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
-🎓&nbsp; **Currently learn WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by Bruno Simon)
+🎓&nbsp; **Currently learn WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by Bruno Simon) \
+💡&nbsp; **Previously:** \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ UX/UI Designer `[ 10 yrs ]`, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Sound Producer `[ 5 yrs ]`, \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Partner at a web-dev agency `[ 3 yrs ]`
 
 <a href="https://cdn.sanity.io/files/93zo7q99/production/017379ae701bc4640278e6b9722b6c17c8f8bf65.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_See_CV_/_Resume-0051ff?logo=PDF"/></a>&nbsp;
 
