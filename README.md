@@ -26,7 +26,7 @@
 
 ### 2026
 
-<strong>`FEATURED:`</strong>
+<strong>`FEATURED`</strong>
 
 <ol>
 <li><a href="https://zlagoda.design/" target="_blank">Zlagoda</a>: a portfolio website for an interior design studio, <strong>[ client ]</strong></li>
@@ -40,7 +40,7 @@
 
 <br />
 
-<strong>`EXPERIMENTS:`</strong>
+<strong>`EXPERIMENTS`</strong>
 
 <ol>
 <li><a href="https://3-cube-shtyka.netlify.app/" target="_blank">Animated cube</a>: cube reacts on hover of buttons (Three.js), <a href="https://github.com/andrewshtyka/3-cube">repo →</a></li>
