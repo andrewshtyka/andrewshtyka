@@ -37,6 +37,7 @@
 
 `EXPERIMENTS:`
 
+→ <a href="https://3-cube-shtyka.netlify.app/" target="_blank">Animated cube</a>: **[ demo ]** cube reacts on hover of buttons (Three.js) \
 → <a href="https://2-ball-shtyka.netlify.app/" target="_blank">Animated ball and timers</a>: **[ demo ]** live timing, cursor reaction (Three.js) \
 → <a href="https://1-cards-shtyka.netlify.app/" target="_blank">Animated cards</a>: **[ demo ]** different views, with hovers (Three.js) \
 → <a href="https://pt-3-shtyka.vercel.app/" target="_blank">Page transition #3</a>: **[ demo ]** one page goes (almost) above another (Next Transition Router) \
