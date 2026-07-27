@@ -46,6 +46,8 @@
 <li><a href="https://pt-3-shtyka.vercel.app/" target="_blank">Page transition #3</a>: one page goes (almost) above another (Next Transition Router)</li>
 <li><a href="https://pt-2-shtyka.vercel.app/" target="_blank">Page transition #2</a>: grid of animated staggered blocks (Next Transition Router)</li>
 <li><a href="https://pt-1-shtyka.vercel.app/" target="_blank">Page transition #1</a>: two pages are visible at the same time (View Transition API)</li>
+<li><a href="https://stackblitz.com/edit/vitejs-vite-pf3ekyc8" target="_blank">Text animation</a>: words and svg icons (GSAP)</li>
+<li><a href="https://stackblitz.com/edit/vitejs-vite-dkhq96tk" target="_blank">Slides animation</a>: words, svg and colors (GSAP)</li>
 <li><a href="https://codesandbox.io/p/sandbox/poster-6-d79rj2" target="_blank">Squares Poster</a>: a Canvas2D experiment</li>
 <li><a href="https://codesandbox.io/p/sandbox/g3qnc5" target="_blank">Lines Poster</a>: a Canvas2D experiment</li>
 <li><a href="https://codesandbox.io/p/sandbox/gvh5pt" target="_blank">Eyes Poster</a>: a Canvas2D experiment</li>
