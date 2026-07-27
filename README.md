@@ -22,7 +22,7 @@
 
 <br/>
 
-## [ Projects & Explorations ]
+## [ Projects & Experiments ]
 
 ### 2026
 
@@ -35,7 +35,7 @@
 
 <br />
 
-`EXPLORATIONS:`
+`EXPERIMENTS:`
 
 → <a href="https://2-ball-shtyka.netlify.app/" target="_blank">Animated ball and timers</a>: **[ demo ]** live timing, cursor reaction (Three.js) \
 → <a href="https://1-cards-shtyka.netlify.app/" target="_blank">Animated cards</a>: **[ demo ]** different views, with hovers (Three.js) \
