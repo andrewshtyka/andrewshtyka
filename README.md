@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka)
+# 👋 Hi, I'm Andrew&nbsp; [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka)
 
 ✅&nbsp; **Frontend Developer** \
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
