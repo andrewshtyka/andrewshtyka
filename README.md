@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Andrew
+# 👋 Hi, I'm Andrew [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka)
 
-✅&nbsp; **Frontend Developer** [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka) \
+✅&nbsp; **Frontend Developer** \
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
 🎓&nbsp; **Currently learn WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by Bruno Simon) \
 💡&nbsp; **Previously:** \
