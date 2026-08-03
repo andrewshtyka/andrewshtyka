@@ -2,11 +2,11 @@
 
 ✅&nbsp; **Frontend Developer** \
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
-🎓&nbsp; **Currently learn WebGL** (<a href="https://threejs-journey.com/" target="_blank">Three.js Journey course</a> by Bruno Simon) \
-💡&nbsp; **Previously:** \
+🎓&nbsp; **Currently learn WebGL**
+<!--💡&nbsp; **Previously:** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ UX/UI Designer `[ 10 yrs ]` \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Sound Producer `[ 5 yrs ]` \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Partner at a web-dev agency `[ 3 yrs ]`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Partner at a web-dev agency `[ 3 yrs ]`-->
 
 <br/>
 
