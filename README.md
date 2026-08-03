@@ -2,7 +2,7 @@
 
 ✅&nbsp; **Frontend Developer** \
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
-🎓&nbsp; **Currently learn WebGL**
+🎓&nbsp; **Currently learn WebGL** (for fun)
 <!--💡&nbsp; **Previously:** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ UX/UI Designer `[ 10 yrs ]` \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Sound Producer `[ 5 yrs ]` \
