@@ -8,8 +8,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Sound Producer `[ 5 yrs ]` \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Partner at a web-dev agency `[ 3 yrs ]`-->
 
-<br/>
-
 ## [ Stack ]
 
 |||
@@ -23,7 +21,6 @@
 <!--[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=andrewshtyka&hide_title=true&langs_count=10&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
 -->
 
-<br/>
 
 ## [ Projects & Experiments ]
 
