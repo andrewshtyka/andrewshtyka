@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew&nbsp; <a href="https://cdn.sanity.io/files/93zo7q99/production/d74229a4c6599e46fa1ec97fb0b1d7ca380da766.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_See_CV_/_Resume-0051ff?logo=PDF"/></a>&nbsp; [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka)
+# 👋 Hi, I'm Andrew&nbsp; <a href="https://cdn.sanity.io/files/93zo7q99/production/92262bf3fbe6612420c914e95b91e4c5d98c423a.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_See_CV_/_Resume-0051ff?logo=PDF"/></a>&nbsp; [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka)
 
 ✅&nbsp; **Frontend Developer** \
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
