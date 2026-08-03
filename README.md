@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew&nbsp; <a href="https://cdn.sanity.io/files/93zo7q99/production/92262bf3fbe6612420c914e95b91e4c5d98c423a.pdf/Frontend_Andrew_Shtyka_CV_en.pdf"><img src="https://img.shields.io/badge/→_See_CV_/_Resume-0051ff?logo=PDF"/></a>&nbsp; [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka)
+# 👋 Hi, I'm Andrew&nbsp; [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka)
 
 ✅&nbsp; **Frontend Developer** \
 ⚙️&nbsp; **Reverse-engineer** Awwwards-winning websites in my spare time \
@@ -13,7 +13,7 @@
 |||
 | - | - |
 | **Core**  | HTML, CSS, SCSS, PostCSS, JS, TS  |
-| **Frameworks**  | React, Next.js, Svelte, SvelteKit, Astro  |
+| **Frameworks**  | React, Next.js, Svelte, SvelteKit, Astro, React Native  |
 | **Libs**  | GSAP, Motion (Framer Motion), Lenis Scroll, Lodash, Radix Primitives, Three.js  |
 | **Data**  | Sanity CMS, GROQ, REST API, WebSocket, Zustand  |
 | **Misc**  | Git, Vite, Vercel, Netlify  |
