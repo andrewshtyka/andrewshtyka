@@ -43,7 +43,7 @@
 <strong>`EXPERIMENTS`</strong>
 
 <ol>
-<li>Mastering algorithms with "Grokking Algorithms" (binary search, quicksort, hash-tables, etc.), <a href="https://github.com/andrewshtyka/grokking-algorithms">repo →</a></li>
+<li>Mastering algorithms with book "Grokking Algorithms" (binary search, quicksort, hash-tables, etc.), <a href="https://github.com/andrewshtyka/grokking-algorithms">repo →</a></li>
   
 <li><a href="https://3-cube-shtyka.netlify.app/" target="_blank">Animated cube</a>: cube reacts on hover of buttons (Three.js), <a href="https://github.com/andrewshtyka/3-cube">repo →</a></li>
   
