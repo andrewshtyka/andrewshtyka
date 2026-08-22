@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Andrew&nbsp; [![Codewars Badge](https://www.codewars.com/users/andrewshtyka/badges/micro)](https://www.codewars.com/users/andrewshtyka)
 
 ✅&nbsp; **Frontend Developer** \
-⚙️&nbsp; **Reverse-engineer** web-apps in my spare time \
-🎓&nbsp; **Currently grokk algorithms**
+⚙️&nbsp; **Reverse-engineer** web-apps in my spare time 
+<!--🎓&nbsp; **Currently grokk algorithms**-->
 <!--💡&nbsp; **Previously:** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ UX/UI Designer `[ 10 yrs ]` \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Sound Producer `[ 5 yrs ]` \
